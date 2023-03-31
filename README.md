@@ -1,8 +1,5 @@
 first make directory, and make vir env and activate it.
 
-    mkdir flask-todo
-    
-    cd flask-todo
 
     python3 -m venv venv
 
